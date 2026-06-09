@@ -2,7 +2,7 @@
 
 > End-to-end data analytics project analyzing 3,044 funding deals worth ₹3.66 Lakh Crore across India's startup ecosystem using FOUR different tools.
 
-![Excel Dashboard](02_excel/screenshots/01_dashboard_full.png)
+![Excel Dashboard](02_excel/screenshots/06_dashboard_full.png)
 
 ---
 
